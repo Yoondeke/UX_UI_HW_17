@@ -1,0 +1,56 @@
+/* Target elements with the class of inline-block */
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+
+/* Target the div with the class of logo */
+.logo {
+    width: 23%;
+    padding: 1%;
+}
+
+/* Target the HTML element nav */
+nav {
+    width: 73%;
+    padding: 1%;
+}
+
+/* Target the base HTML ul element */
+ul {
+    width: 50%;
+    margin-left: auto;
+}
+
+/* Center images inside the .logo container */
+.logo img {
+    text-align: center;
+}
+/* Target the section with the class of heroImg */
+.heroImg {
+    height: 600px;
+    padding: 25px;
+}
+
+/* Target the class of content */
+.content {
+    width: 500px;
+    margin: 0 auto;
+}
+/* Target the base HTML footer element */
+footer {
+    background-color: #373738;
+    padding: 20px; /* Adjust the padding as needed */
+}
+
+/* Target the <ul> nested inside the footer */
+footer ul {
+    display: inline-block;
+    vertical-align: top;
+    padding: 0; /* Remove default padding */
+}
+
+/* Style the <li> elements inside the footer's <ul> */
+footer li {
+    padding: 10px; /* Adjust the padding as needed */
+}
